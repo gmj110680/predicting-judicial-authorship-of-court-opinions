@@ -1,4 +1,4 @@
-# Springboard Capstone Project 2 - Predicting Judicial Authorship of Court Opinions
+## Springboard Capstone Project 2 - Predicting Judicial Authorship of Court Opinions
 
 For this project, my goal is to build a multi-class text classifier that is able to accurately predict which judge authored a particular court opinion based on the text of that opinion.  The dataset used for this project was made publicly available by Harvard Law School's Caselaw Access Project.  Harvard has made a few states' caselaw decisions publicly available for bulk download [here](https://case.law/bulk/download/).  I elected to use the North Carolina caselaw database for this project. 
 
